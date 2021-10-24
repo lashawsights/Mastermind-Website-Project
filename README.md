@@ -1,2 +1,2 @@
-# lot-projects
+# mastermind homepage
 Some projects I've done.
